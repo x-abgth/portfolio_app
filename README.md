@@ -11,7 +11,7 @@ A portfolio app for myself designed only for mobile devices.
 - [ ] Application testing
 
 ## 📱 Screenshots
-  
+<img src="assets/ui_designs/loading_page.png" alt="Loading Page" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/welcome_page.png" alt="Welcome Page" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/liked_scrnsht.png" alt="Like Screenshot" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/home_page.png" alt="Home Page" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/liquid_swipe.png" alt="Liquid swipe" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/second_page.png" alt="Second page" width="200"/>&ensp;&ensp;<img src="assets/ui_designs/third_page.png" alt="Third page" width="200"/>
   
 ## 💻 Test application on your machine
 Open CMD from where you want to clone the project & run the following commands:
